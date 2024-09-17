@@ -6,34 +6,6 @@
 
 ## 教程
 
-
-1.插件安装（以Microsoft Edge浏览器为例）
-
-![image](https://www.tuziang.com/usr/uploads/2024/08/384068832.png)
-
-打开最中间那个蓝色绿色的浏览器，谷歌之类的浏览器也可以
-
-![image](https://www.tuziang.com/usr/uploads/2024/08/2054828389.png)
-
-![image](https://www.tuziang.com/usr/uploads/2024/08/1763032233.png)
-
-点击屏幕右上角三个点，图示位置，然后点击扩展
-
-![image](https://www.tuziang.com/usr/uploads/2024/08/1293974570.png)
-点击获取扩展
-
-![image](https://www.tuziang.com/usr/uploads/2024/08/993312286.png)
-
-搜索Tampermonkey,并点击获取那个绿色的小猴子（[篡改猴 - Microsoft Edge Addons][1]）
-
-![image](https://www.tuziang.com/usr/uploads/2024/08/1446173024.png)
-
-到这里，你的油猴就已经装好啦！同时你可以看见你的浏览器上面多了个黑色图标。
-
-----
-
-那么接下来教大家安装脚本。
-
 在这个浏览器上打开[脚本安装地址][2]，进入后点击安装脚本，安装完成刷新你学习网页就可以愉快使用了。
 
 ## 联系
